@@ -1,0 +1,38 @@
+package awsRegionZone
+
+type Regions string
+
+const (
+	UsEast1		Regions	= "us-east-1"
+	UsEast2		Regions	= "us-east-2"
+	UsWest1		Regions	= "us-west-1"
+	UsWest2		Regions	= "us-west-2"
+	AfSouth1	Regions	= "af-south-1"
+	ApEast1		Regions	= "ap-east-1"
+	ApSouth2	Regions	= "ap-south-2"
+	ApSoutheast3	Regions	= "ap-southeast-3"
+	ApSoutheast5	Regions	= "ap-southeast-5"
+	ApSoutheast4	Regions	= "ap-southeast-4"
+	ApSouth1	Regions	= "ap-south-1"
+	ApNortheast3	Regions	= "ap-northeast-3"
+	ApNortheast2	Regions	= "ap-northeast-2"
+	ApSoutheast1	Regions	= "ap-southeast-1"
+	ApSoutheast2	Regions	= "ap-southeast-2"
+	ApSoutheast7	Regions	= "ap-southeast-7"
+	ApNortheast1	Regions	= "ap-northeast-1"
+	CaCentral1	Regions	= "ca-central-1"
+	CaWest1		Regions	= "ca-west-1"
+	EuCentral1	Regions	= "eu-central-1"
+	EuWest1		Regions	= "eu-west-1"
+	EuWest2		Regions	= "eu-west-2"
+	EuSouth1	Regions	= "eu-south-1"
+	EuWest3		Regions	= "eu-west-3"
+	EuSouth2	Regions	= "eu-south-2"
+	EuNorth1	Regions	= "eu-north-1"
+	EuCentral2	Regions	= "eu-central-2"
+	IlCentral1	Regions	= "il-central-1"
+	MxCentral1	Regions	= "mx-central-1"
+	MeSouth1	Regions	= "me-south-1"
+	MeCentral1	Regions	= "me-central-1"
+	SaEast1		Regions	= "sa-east-1"
+)
