@@ -18,6 +18,7 @@ const (
 	ApNortheast2	Regions	= "ap-northeast-2"
 	ApSoutheast1	Regions	= "ap-southeast-1"
 	ApSoutheast2	Regions	= "ap-southeast-2"
+	ApEast2		Regions	= "ap-east-2"
 	ApSoutheast7	Regions	= "ap-southeast-7"
 	ApNortheast1	Regions	= "ap-northeast-1"
 	CaCentral1	Regions	= "ca-central-1"
